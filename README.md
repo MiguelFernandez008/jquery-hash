@@ -46,4 +46,3 @@ $.onHash('onRemoveOneHandler', 'foo');
 Removes all callbacks
 ```
 $.onHash('onRemoveHashChange'); 
-```
